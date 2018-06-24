@@ -1,0 +1,49 @@
+PODS:
+  - APIKit (3.2.1):
+    - Result (~> 3.0)
+  - Himotoki (3.2.0)
+  - InfoKit (0.0.2)
+  - Result (3.2.4)
+  - RxCocoa (4.2.0):
+    - RxSwift (~> 4.0)
+  - RxSwift (4.2.0)
+  - SwiftyMarkdown (0.5.1)
+  - Toast (4.0.0)
+  - XLPagerTabStrip (8.0.1)
+
+DEPENDENCIES:
+  - APIKit (~> 3.1)
+  - Himotoki (~> 3.1)
+  - InfoKit
+  - RxCocoa (~> 4.0)
+  - RxSwift (~> 4.0)
+  - SwiftyMarkdown
+  - Toast (~> 4.0.0)
+  - XLPagerTabStrip (~> 8.0)
+
+SPEC REPOS:
+  https://github.com/CocoaPods/Specs.git:
+    - APIKit
+    - Himotoki
+    - InfoKit
+    - Result
+    - RxCocoa
+    - RxSwift
+    - SwiftyMarkdown
+    - Toast
+    - XLPagerTabStrip
+
+SPEC CHECKSUMS:
+  APIKit: a39ff72ac44efc15513fd1b98800f63c525be61b
+  Himotoki: 2618fc6b939ad6d9b71c52c90fe210f54ea28167
+  InfoKit: 9f9137bae7d1af1f120c4f67571ad0cf585a5911
+  Result: d2d07204ce72856f1fd9130bbe42c35a7b0fea10
+  RxCocoa: 0b54909c902e1e581212a03e690bbd94032d8baa
+  RxSwift: 99e10317ddfcc7fbe01356aafd118fde4a0be104
+  SwiftyMarkdown: 743af3e87931391bc4836b825fec3d98785b2e3a
+  Toast: 91b396c56ee72a5790816f40d3a94dd357abc196
+  XLPagerTabStrip: c908b17cbf42fcd2598ee1adfc49bae25444d88a
+
+PODFILE CHECKSUM: cff04ae148b4015f95a628c092d6a0abb23f842d
+
+COCOAPODS: 1.5.0
